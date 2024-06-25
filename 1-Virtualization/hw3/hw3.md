@@ -27,3 +27,13 @@
 ```sh
 $ docker rm -f CHUDOV-custom-nginx-t2
 ```
+
+## Задание 4
+
+Centos:
+
+![Centos](docker_4_centos.png)
+
+Debian:
+
+![Debian](docker_4_debian.png)
