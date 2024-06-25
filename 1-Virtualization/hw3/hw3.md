@@ -13,3 +13,7 @@
 1. docker attach <container ID>
 
 ![Docker Attach](docker_3_attach.png)
+
+6. Install nano
+
+![Docker Install nano](docker_3_install nano.png)
