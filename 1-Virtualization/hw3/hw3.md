@@ -17,3 +17,7 @@
 6. Install nano
 
 ![Docker Install nano](docker_3_install_nano.png)
+
+7-8. Nginx: change port
+
+![Docker Nginx change port](docker_3_nginx_port.png)
