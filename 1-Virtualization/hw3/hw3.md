@@ -16,4 +16,4 @@
 
 6. Install nano
 
-![Docker Install nano](docker_3_install nano.png)
+![Docker Install nano](docker_3_install_nano.png)
