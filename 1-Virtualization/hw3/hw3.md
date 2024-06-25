@@ -21,3 +21,9 @@
 7-8. Nginx: change port
 
 ![Docker Nginx change port](docker_3_nginx_port.png)
+
+12. Remove container
+
+```sh
+$ docker rm -f CHUDOV-custom-nginx-t2
+```
