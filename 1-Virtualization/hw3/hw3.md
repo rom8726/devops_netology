@@ -37,3 +37,13 @@ Centos:
 Debian:
 
 ![Debian](docker_4_debian.png)
+
+## Задание 5
+
+5.1. Будет использовано compose.yaml, т.к. это имя файла имеет наиболее высокий приоритет.
+
+5.2.
+
+[compose.yaml](compose.yaml)
+
+[docker-compose.yaml](docker-compose.yaml)
