@@ -50,14 +50,14 @@ Debian:
 
 5.4.
 
-[portainer_change_creds.png](portainer_change_creds.png)
+![portainer_change_creds.png](portainer_change_creds.png)
 
 5.5-5.6.
 
-[portainer_nginx_config.png](portainer_nginx_config.png)
+![portainer_nginx_config.png](portainer_nginx_config.png)
 
 5.7.
 
 После удаления compose.yaml контейнер portainer стал "осиротевшим", то есть не имеющим соответствующего конфига.
 
-[docker_compose_orphans.png](docker_compose_orphans.png)
+![docker_compose_orphans.png](docker_compose_orphans.png)

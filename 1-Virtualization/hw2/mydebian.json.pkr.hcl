@@ -1,12 +1,12 @@
 source "yandex" "debian_docker" {
   disk_type           = "network-hdd"
-  folder_id           = "****"
+  folder_id           = "b1gvd286fqo94k90g0kc"
   image_description   = "my custom debian with docker"
   image_name          = "debian-11-docker"
   source_image_family = "debian-11"
   ssh_username        = "debian"
   subnet_id           = "e9bpv92u3304ii696ihl"
-  token               = "****"
+  token               = "y0_AgAAAAAMAWNyAATuwQAAAAEFgt4vAADowfX61ptJe7qZKb33LDO1XMImUQ"
   use_ipv4_nat        = true
   zone                = "ru-central1-a"
 }
