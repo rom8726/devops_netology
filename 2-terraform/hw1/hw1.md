@@ -1,10 +1,10 @@
-[!terraform_version.png](terraform_version.png)
+![terraform_version.png](terraform_version.png)
 
 ## Задание 1
 
 1.
 
-[!terraform_init.png](terraform_init.png)
+![terraform_init.png](terraform_init.png)
 
 2. Секретные данные хранятся в `personal.auto.tfvar`
 
@@ -12,9 +12,9 @@
 
 4.
 
-[!terraform_validate.png](terraform_validate.png)
+![terraform_validate.png](terraform_validate.png)
 
-[!terraform_validate2.png](terraform_validate2.png)
+![terraform_validate2.png](terraform_validate2.png)
 
 `resource "docker_image" {` - пропущен name
 
@@ -41,7 +41,7 @@ resource "docker_container" "nginx" {
 }
 ```
 
-[!terraform_apply.png](terraform_apply.png)
+![terraform_apply.png](terraform_apply.png)
 
 6.
 
@@ -50,11 +50,11 @@ resource "docker_container" "nginx" {
 Флаг может быть полезен в случае автоматизации процесса изменений, позволяет ускорить и упростить процессы.
 
 
-[!terraform_apply2.png](terraform_apply2.png)
+![terraform_apply2.png](terraform_apply2.png)
 
 7.
 
-[!terraform_destroy.png](terraform_destroy.png)
+![terraform_destroy.png](terraform_destroy.png)
 
 ```
 {
